@@ -3,3 +3,4 @@
 
 ## Contents
 - [Dockerを使って便利な環境を作る](01_create_environment_using_docker/index.md)
+- [ゲーム理論の基礎](02_game_theory_basic/index.md)
